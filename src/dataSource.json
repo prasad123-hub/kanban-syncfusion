@@ -1,0 +1,34 @@
+{
+  "kanbanData": [
+    {
+      "Id": 1,
+      "Summary": "Analyze the new requirements gathered from the customer",
+      "Status": "Open",
+      "Assignee": "Hitesh"
+    },
+    {
+      "Id": 2,
+      "Summary": "Make changes in navbar",
+      "Status": "InProgress",
+      "Assignee": "Surya"
+    },
+    {
+      "Id": 3,
+      "Summary": "Make the changes in footer",
+      "Status": "Close",
+      "Assignee": "Prasad"
+    },
+    {
+      "Id": 4,
+      "Summary": "Make the responsive website",
+      "Status": "Testing",
+      "Assignee": "Hitesh"
+    },
+    {
+      "Id": 5,
+      "Summary": "Analyze the new requirements gathered from the customer",
+      "Status": "Open",
+      "Assignee": "Prasad"
+    }
+  ]
+}
