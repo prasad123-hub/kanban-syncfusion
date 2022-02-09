@@ -20,7 +20,11 @@ function App() {
         swimlaneSettings={{ keyField: "Assignee" }}
       >
         <ColumnsDirective>
-          <ColumnDirective headerText="To Do" keyField="Open" />
+          <ColumnDirective
+            headerText="To Do"
+            keyField="Open"
+            style={{ backgroundColor: "#000" }}
+          />
           <ColumnDirective headerText="In Progress" keyField="InProgress" />
           <ColumnDirective headerText="Testing" keyField="Testing" />
           <ColumnDirective headerText="Done" keyField="Close" />

@@ -1,1 +1,29 @@
 @import url("https://cdn.syncfusion.com/ej2/material.css");
+
+.e-header-cells:nth-child(1) {
+  background-color: #383cc1 !important;
+}
+
+.e-header-cells:nth-child(2) {
+  background-color: #e07c24 !important;
+}
+
+.e-header-cells:nth-child(3) {
+  background-color: #e03b8b !important;
+}
+
+.e-header-cells:nth-child(4) {
+  background-color: #6ec72d !important;
+}
+
+.e-header-text {
+  color: #ffffff !important;
+}
+
+.e-item-count {
+  color: #ffffff !important;
+}
+
+.e-card {
+  background-color: #46b2e0 !important;
+}
